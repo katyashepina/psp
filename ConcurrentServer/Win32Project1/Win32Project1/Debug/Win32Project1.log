@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(51): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note:  см. объявление "localtime"
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(93): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(90): warning C4101: lobuf: неиспользованная локальная переменная
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(131): warning C4101: lobuf: неиспользованная локальная переменная
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(131): warning C4101: libuf: неиспользованная локальная переменная
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(149): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(152): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note:  см. объявление "sprintf"
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(150): warning C4101: lobuf: неиспользованная локальная переменная
+e:\бгту\пятый семестр\пибсп\программирование сетевых приложений\concurrentserver\win32project1\win32project1\prototypeservice.h(150): warning C4101: libuf: неиспользованная локальная переменная
+  Win32Project1.cpp
+  ErrorFunctions.cpp
+  Создание кода...
+     Создается библиотека E:\БГТУ\Пятый семестр\ПиБСП\Программирование сетевых приложений\ConcurrentServer\Win32Project1\Debug\Win32Project1.lib и объект E:\БГТУ\Пятый семестр\ПиБСП\Программирование сетевых приложений\ConcurrentServer\Win32Project1\Debug\Win32Project1.exp
+  Win32Project1.vcxproj -> E:\БГТУ\Пятый семестр\ПиБСП\Программирование сетевых приложений\ConcurrentServer\Win32Project1\Debug\Win32Project1.dll
+  Win32Project1.vcxproj -> E:\БГТУ\Пятый семестр\ПиБСП\Программирование сетевых приложений\ConcurrentServer\Win32Project1\Debug\Win32Project1.pdb (Partial PDB)

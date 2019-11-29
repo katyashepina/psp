@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  ClientT.cpp
+D:\5 СЕМЕСТР\ConcurrentServer\server test\ClientT\ClientT\ClientT.cpp(118,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\Winsock2.h(1831): message : см. объявление "inet_addr"
+D:\5 СЕМЕСТР\ConcurrentServer\server test\ClientT\ClientT\ClientT.cpp(128,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
+D:\5 СЕМЕСТР\ConcurrentServer\server test\ClientT\ClientT\ClientT.cpp(130,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : см. объявление "strcpy"
+D:\5 СЕМЕСТР\ConcurrentServer\server test\ClientT\ClientT\ClientT.cpp(149,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+D:\5 СЕМЕСТР\ConcurrentServer\server test\ClientT\ClientT\ClientT.cpp(163,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+D:\5 СЕМЕСТР\ConcurrentServer\server test\ClientT\ClientT\ClientT.cpp(122,4): warning C4101: obuf: неиспользованная локальная переменная
+  ClientT.vcxproj -> D:\5 СЕМЕСТР\ConcurrentServer\server test\ClientT\Debug\ClientT.exe

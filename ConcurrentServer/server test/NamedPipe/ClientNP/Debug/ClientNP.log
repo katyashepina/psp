@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ClientNP.cpp
+D:\5 СЕМЕСТР\ConcurrentServer\server test\NamedPipe\ClientNP\ClientNP.cpp(79,6): warning C4101: n: неиспользованная локальная переменная
+D:\5 СЕМЕСТР\ConcurrentServer\server test\NamedPipe\ClientNP\ClientNP.cpp(60): warning C4172: возвращение адреса локальной или временной переменной : final_msg
+D:\5 СЕМЕСТР\ConcurrentServer\server test\NamedPipe\ClientNP\ClientNP.cpp(65): warning C4172: возвращение адреса локальной или временной переменной : final_msg
+  ClientNP.vcxproj -> D:\5 СЕМЕСТР\ConcurrentServer\server test\NamedPipe\Debug\ClientNP.exe

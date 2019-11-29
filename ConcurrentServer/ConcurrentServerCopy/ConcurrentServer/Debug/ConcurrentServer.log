@@ -1,0 +1,40 @@
+﻿  ConcurrentServer.cpp
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(75): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(169): warning C4101: 'cS': unreferenced local variable
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(168): warning C4101: 'clnt': unreferenced local variable
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(241): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(216): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(246): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(250): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(258): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(266): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(270): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(274): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(381): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(454): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(458): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(459): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(463): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\программирование сетевых приложений\concurrentserver\concurrentserver\concurrentserver\concurrentserver.cpp(464): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  ConcurrentServer.vcxproj -> D:\learn\Программирование сетевых приложений\ConcurrentServer\ConcurrentServer\Debug\ConcurrentServer.exe
+  ConcurrentServer.vcxproj -> D:\learn\Программирование сетевых приложений\ConcurrentServer\ConcurrentServer\Debug\ConcurrentServer.pdb (Full PDB)
